@@ -592,4 +592,7 @@ width: 75px;
 
 
   }
+::-webkit-scrollbar{
+    display: none;
+}
 
