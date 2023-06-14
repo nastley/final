@@ -44,7 +44,7 @@ document.getElementById("wrongguesscheck").addEventListener("click", updatewrong
 function generateButtonClicked () {
 
 
-
+  hintlettercounter = -1;
   
   document.getElementById("input").value = ""
 
