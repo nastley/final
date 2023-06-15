@@ -244,6 +244,7 @@ section > div > button{
     border-radius: 10% 30% 30% 10%;
     left: 40%;
     transition:ease-out 1.6s all;
+    z-index: 10;
 }
 
 #rightbutton{
